@@ -1,2 +1,2 @@
 # Newone
-Prime Number
+Prime Number Code
